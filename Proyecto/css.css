@@ -1,0 +1,13 @@
+.contenido{
+    position: relative;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    border: 1px solid #ccc;
+    width: 300px;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, 100%);
+
+}
