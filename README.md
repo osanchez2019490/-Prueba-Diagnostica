@@ -1,1 +1,1 @@
-# -Prueba-Diagnostico
+# Prueba-Diagnostico
